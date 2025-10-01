@@ -17,6 +17,7 @@
 		},
 		"icon": "./assets/images/icon.png",
 		"ios": {
+			"bundleIdentifier": "com.clhaas.brazilian-democracy",
 			"supportsTablet": true
 		},
 		"name": "brazilian-democracy",
